@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-weather-app
+Weather App built with React using OpenWeatherMap API. Features city-based weather search, temperature in Celsius, dynamic weather icons (clear sky, clouds, rain, mist), and error handling for invalid cities. Styled with custom CSS and react-icons for UI.
+>>>>>>> 77e4d1b194a9a2ae0749eda83f446b7d3017e35d
